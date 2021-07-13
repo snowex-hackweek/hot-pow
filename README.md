@@ -25,8 +25,6 @@ Notebooks that are considered delivered results for the project should go in her
 ### `scripts`
 Helper utilities that are shared with the team
 
-# Recommended content for your README.md file:
-
 ## Project Summary
 
 ### Project Title
@@ -35,7 +33,16 @@ Brief title describing the proposed work.
 
 ### Collaborators on this project
 
-List all participants on the project. Choose one team member to act as project lead, and identify one hackweek organizer as the data science lead.
+| Name  | Time Zone | Project Roles / Personal Goals / Can help with |
+| ------------- | ------------- | ------------- |
+| Dillon Ragar  | MST UTC-6  | 2 yrs python experience (mostly Pandas)  / SNOBAL model / want to learn geospatial libraries  |
+| Jewell Lund  | MST UTC -6  | Bring in Sentinel-1 / Offer pit data for March - May / excited to get experience with data integration  |
+| Zachary Miller  | MST UTC -6  | Learning Py / mapping profile data over space/time  |
+| Jeremy Johnston  | EST UTC -4  | Project Lead, Python, UAV Thermal, Snowpit Data and Met Sites  |
+| Friedrich Knuth  | PST UTC -7  | Pull in ERA5 / data vis / Python / Git / Jupyter   |
+| Giulia Mazzotti  | CEST UTC +2  | Learning Python, thermal IR data mining / can help processing Lidar data into a Canopy height/cover map |
+| Steven Pestana  | PST UTC -7  | Data Science Helper / learn to use the various temperature validation datasets from snowex2020  |
+| Wenge Ni-Meister  | EST UTC -4  |  |
 
 ### The problem
 
