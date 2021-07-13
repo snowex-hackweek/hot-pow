@@ -1,4 +1,5 @@
 # Hot-Pow Thermal Project
+steven was here, demo merge conflict
 
 This repository includes the hot-pow group's project work as part of SnowEx Hackweek 2021
 
