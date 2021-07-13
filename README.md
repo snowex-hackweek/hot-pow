@@ -1,6 +1,6 @@
-# Sample Project
+# Hot-Pow Thermal Project
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+This repository includes the hot-pow group's project work as part of SnowEx Hackweek 2021
 
 ## Files
 
