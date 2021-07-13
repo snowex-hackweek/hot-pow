@@ -16,6 +16,9 @@ This repository includes the hot-pow group's project work as part of SnowEx Hack
 ### `contributors`
 Each team member has it's own folder under contributors, where they can work on their contribution. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch.
 
+### `dotfiles`
+Additional configuration files, such as a .bash_profile.
+
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in here.
 
