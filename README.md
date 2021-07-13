@@ -1,5 +1,4 @@
 # Hot-Pow Thermal Project
-
 This repository includes the hot-pow group's project work as part of SnowEx Hackweek 2021
 
 ## Files
