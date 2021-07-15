@@ -44,6 +44,7 @@ Thermal Explorations
 | Giulia Mazzotti  | CEST UTC +2  | Learning Python, thermal IR data mining / can help processing Lidar data into a Canopy height/cover map |  |
 | Steven Pestana  | PST UTC -7  | Data Science Helper / learn to use the various temperature validation datasets from snowex2020  | Data Science Helper |
 | Wenge Ni-Meister  | EST UTC -4  |  |  |
+| Aji John  |  |  |  |
 
 ### The problem
 
