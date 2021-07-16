@@ -9,7 +9,7 @@ This repository includes the hot-pow group's project work as part of SnowEx Hack
 * `environment.yml`
 <br> `conda` environment description needed to run this project.
 * `README.md`
-<br> Description of the project (see suggested headings below)
+<br> Project description and details.
 
 ## Folders
 
@@ -20,7 +20,7 @@ Each team member has it's own folder under contributors, where they can work on 
 Additional configuration files, such as a .bash_profile.
 
 ### `notebooks`
-Notebooks that are considered delivered results for the project should go in here.
+Notebooks or other deliverables showcasing project results.
 
 ### `scripts`
 Helper utilities that are shared with the team
@@ -31,7 +31,7 @@ There are a wide range of existing temperature data from the SnowEx campaigns. R
 
 ### Project Title
 
-Thermal Explorations
+Investigating SnowEx Temperature Observations at Grand Mesa, Colorado, Winter 2019-2020
 
 ### Collaborators on this project
 
@@ -110,6 +110,10 @@ Few direct comparisons between snow pit temperatures, ground observing sites, ai
 #### and more!!
 
 ### Background reading
+
+Applications of these airborne IR data for snow remote sensing:
+- https://doi.org/10.1016/j.rse.2018.03.001
+- https://doi.org/10.1029/2019WR025699
 
 Surface Temperature Multiscale Monitoring
 https://www.mdpi.com/2072-4292/11/9/1007
