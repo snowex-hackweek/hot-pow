@@ -1,4 +1,5 @@
-# Hot-Pow Thermal Project
+# Hot-Pow
+### Investigating SnowEx Temperature Observations at Grand Mesa, Colorado, Winter 2019-2020
 This repository includes the hot-pow group's project work as part of SnowEx Hackweek 2021
 
 ## Files
@@ -52,7 +53,7 @@ There are a wide range of existing temperature data from the SnowEx campaigns ho
 
 ### Application Example
 
-Comparing pit data with met station temperatures from the Mesa:
+Comparing pit data with met station temperatures from the Mesa by vegetation and snow depth class:
 ![image](https://user-images.githubusercontent.com/24480835/125893733-505af65a-c1a6-4cd3-a5ea-98dc8f443415.png)
 
 
@@ -75,7 +76,8 @@ Our questions exist in two categories:
 1) Data aggregation and visualization
 
     - What are the existing data sources? How can we access and visualize these?
-    - How to integrate and compare thermal observations acquired across a wide range of methods?  
+    - How to integrate and compare thermal observations acquired across a wide range of methods?
+    - How can we pull in additional datasets to extend the snow pit timeseries? Add additional met stations?  
 
 2) Science Questions
 
@@ -96,11 +98,16 @@ Our questions exist in two categories:
 
 Few direct comparisons between snow pit temperatures, ground observing sites, airborne Thermal IR observations, and large scale reanalysis temperatures exist. However, the use of GIS tools and georeferenced data has been critical to acheiving multi-scale data evaluations in the past. The power of these tools for multi-scale data analyses have been reiterated (in Python) in many of the great tutorials from the SnowEx Hackweek.
 
+#### Sampling a Raster at points using rasterio
+![image](https://user-images.githubusercontent.com/24480835/125897147-271f29f2-d8eb-4ad7-914b-d55e221cf808.png)
+
 ### Proposed methods/tools
 
-*Data overlays using geopandas and rasterio
-*Spatial layer joins and data cropping
-*Timeseries analyses
+- Data overlays using geopandas and rasterio
+- Spatial layer joins and data cropping
+- Timeseries analyses
+
+#### and more!!
 
 ### Background reading
 
@@ -109,6 +116,3 @@ https://www.mdpi.com/2072-4292/11/9/1007
 
 Multi-scale Albedo Comparisons
 https://www.mdpi.com/2072-4292/9/2/110
-
-
-
