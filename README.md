@@ -27,7 +27,7 @@ Helper utilities that are shared with the team
 
 ## Project Summary
 
-There are a wide range of existing temperature data from the SnowEx campaigns. Ranging from hand collected kinetic temperatures at snow pits, to aircraft flights using thermal imagers, to long term automated collection stations. In addition, coarse resolution satellite observations and model reanalysis products provie additional temperature data sets across the study region (Grand Mesa). In our project, we hope to gather these datasets to one place and develop interactive tools and plots showcasing the available thermal observations. Additionally, we explore some potential applications of these data sets to answer a wide range of relevant science questions. For example, how does ERA5 reanalysis compare to met sites and snow pit data on Grand Mesa?
+There are a wide range of existing temperature data from the SnowEx campaigns. Ranging from hand collected kinetic temperatures at snow pits, to aircraft flights using thermal imagers, to long term automated collection stations. In addition, coarse resolution satellite observations and model reanalysis products provie additional temperature data sets across the study region (Grand Mesa). In our project, we hope to gather these datasets to one place and develop interactive tools and plots showcasing the available thermal observations. Additionally, we explore some potential applications of these data sets to answer a wide range of relevant science questions. For example: *How does ERA5 reanalysis compare to met sites and snow pit data on Grand Mesa?*; *How do surface temperatures evolve over time in open versus forested regions of Grand Mesa?*; *How does tree-shading control surface temperatures?*
 
 ### Project Title
 
