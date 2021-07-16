@@ -26,7 +26,7 @@ Helper utilities that are shared with the team
 
 ## Project Summary
 
-There are a wide range of existing temperature data from the SnowEx campaigns. Ranging from hand collected kinetic temperatures at snow pits, to aircraft flights using thermal imagers, to long term automated collection stations. In addition, generally coarse resolution satellite observations in the thermal infrared band also exist across the study region (Grand Mesa). In our project, we hope to gather these datasets to one place and develop interactive tools and plots showcasing the available thermal observations. Additionally, we explore some potential applications of these data sets to answer a wide range of relevant science questions. For example, how does vegetation impact thermal observations acquired at different scales?
+There are a wide range of existing temperature data from the SnowEx campaigns. Ranging from hand collected kinetic temperatures at snow pits, to aircraft flights using thermal imagers, to long term automated collection stations. In addition, coarse resolution satellite observations and model reanalysis products provie additional temperature data sets across the study region (Grand Mesa). In our project, we hope to gather these datasets to one place and develop interactive tools and plots showcasing the available thermal observations. Additionally, we explore some potential applications of these data sets to answer a wide range of relevant science questions. For example, how does ERA5 reanalysis compare to met sites and snow pit data on Grand Mesa?
 
 ### Project Title
 
@@ -48,15 +48,25 @@ Thermal Explorations
 
 ### The problem
 
-There are a wide range of existing temperature data from the SnowEx campaigns hosted in various locations with various temporal and spatial resolutions as well as different temporal availability. This makes these datasets challenging to integrate and compare among one another in order to answer relevant science questions. (This is a first pass)
+There are a wide range of existing temperature data from the SnowEx campaigns hosted in various locations with various temporal and spatial resolutions as well as different temporal availability. This makes these datasets challenging to integrate and compare among one another in order to answer relevant science questions.
 
 ### Application Example
 
-Development of an interactive tool/map which can provide information on thermal data availability (??)
+Comparing pit data with met station temperatures from the Mesa:
+![image](https://user-images.githubusercontent.com/24480835/125893733-505af65a-c1a6-4cd3-a5ea-98dc8f443415.png)
+
 
 ### Sample data
 
-TBA: If you already have some data to explore, briefly describe it here (size, format, how to access).
+Snow pit data set accessed from the snowexsql database:
+![image](https://user-images.githubusercontent.com/24480835/125893970-d569e9c9-f83a-4998-87c0-c18de639981e.png)
+
+All pit location measured surface temperatures from the IOP (light blues indicate colder temperatures):
+![image](https://user-images.githubusercontent.com/24480835/125894721-86145433-0d72-44b6-b144-c1854651e815.png)
+
+Snow pits overlayed with Airborne IR:
+![image](https://user-images.githubusercontent.com/24480835/125894447-dd78668d-9f6a-4bfe-942d-8886b4a533d1.png)
+
 
 ### Specific Questions
 
@@ -84,7 +94,7 @@ Our questions exist in two categories:
 
 ### Existing methods
 
-How would you or others traditionally try to address this problem?
+C
 
 ### Proposed methods/tools
 
