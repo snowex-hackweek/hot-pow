@@ -94,13 +94,21 @@ Our questions exist in two categories:
 
 ### Existing methods
 
-C
+Few direct comparisons between snow pit temperatures, ground observing sites, airborne Thermal IR observations, and large scale reanalysis temperatures exist. However, the use of GIS tools and georeferenced data has been critical to acheiving multi-scale data evaluations in the past. The power of these tools for multi-scale data analyses have been reiterated (in Python) in many of the great tutorials from the SnowEx Hackweek.
 
 ### Proposed methods/tools
 
-Building from what you learn at this hackweek, what new approaches would you like to try to implement?
+*Data overlays using geopandas and rasterio
+*Spatial layer joins and data cropping
+*Timeseries analyses
 
 ### Background reading
 
-Optional: links to manuscripts or technical documents for more in-depth analysis.
+Surface Temperature Multiscale Monitoring
+https://www.mdpi.com/2072-4292/11/9/1007
+
+Multi-scale Albedo Comparisons
+https://www.mdpi.com/2072-4292/9/2/110
+
+
 
