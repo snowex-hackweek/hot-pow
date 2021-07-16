@@ -111,7 +111,9 @@ Few direct comparisons between snow pit temperatures, ground observing sites, ai
 
 ### Background reading
 
-Applications of these airborne IR data for snow remote sensing:
+Applications and descriptions of these airborne IR data for snow remote sensing:
+- https://doi.org/10.1109/IGARSS.2017.8127228
+- https://westernsnowconference.org/files/PDFs/2016Keenan.pdf
 - https://doi.org/10.1016/j.rse.2018.03.001
 - https://doi.org/10.1029/2019WR025699
 
